@@ -1,0 +1,15 @@
+mkdir learn_with-geekster
+cd learn_with-geekster
+touch first.txt
+cat first.txt
+git config --global user.name "Roshan"
+git config --global user.email "jayakiranyerramsetti4@gmail.com"
+
+
+cd geekster
+mv Html/img.html React/img.html
+
+
+
+cd geekster
+mv Angular/Services/TS/F1.txt React/Component/F1.txt
